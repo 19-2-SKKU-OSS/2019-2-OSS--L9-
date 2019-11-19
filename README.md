@@ -5,7 +5,7 @@
 ## Members
 
 * [이창원](https://lcw921.github.io/static_page/)
-* [한영진]
+* [한영진](skkyYJ.github.io/static_page/)
 * [안현준](https://nthreeahn.github.io/static_page/)
 * [강민우](https://r0ya1je11y.github.io/static_page/)
 * [금상인]
