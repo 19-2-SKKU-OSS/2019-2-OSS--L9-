@@ -20,6 +20,3 @@ def anagram(s1, s2):
         c2[pos] = c2[pos] + 1
 
     return c1 == c2
-
-###dsdsddsds
-### dssdsdds
