@@ -1,4 +1,4 @@
-
+# Time Complexity: O(n)
 def max_subarray(array):
     max_so_far = max_now = array[0]
     for i in range(1, len(array)):
