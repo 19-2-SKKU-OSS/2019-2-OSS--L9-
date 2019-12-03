@@ -17,8 +17,8 @@ graph = {
 '''
 
 def bellman_ford(graph, source):
-    weight = dict()
-    pre_node = dict()
+    weight = {}
+    pre_node = {}
 
     initialize_single_source(graph, source)
 
