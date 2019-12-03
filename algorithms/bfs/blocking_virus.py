@@ -44,6 +44,14 @@ After building three walls, the area where the virus cannot spread is called a s
 In the map above, the size of the safe area is 27.
 
 Write a program that calculates the maximum value of the safe zone size that can be obtained when the map of lab is given.
+
+The first line gives the map's height N and its width M. (3 ≤ N, M ≤ 8)
+
+From the second line on, N lines are given the shape of the map. 0 is blank, 1 is the wall, 2 is the location of the virus. 
+The number of two is a natural number greater than or equal to two and less than or equal to ten.
+
+The number of blanks is three or more.
+
 '''
 
 n, m = map(int, input().split())
