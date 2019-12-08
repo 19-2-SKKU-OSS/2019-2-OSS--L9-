@@ -3,6 +3,7 @@ from algorithms.graph import check_bipartite
 from algorithms.graph.dijkstra import Dijkstra
 from algorithms.graph import maximum_flow_bfs
 from algorithms.graph import maximum_flow_dfs
+from algorithms.graph import bellman_ford
 
 import unittest
 
