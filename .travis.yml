@@ -1,30 +1,16 @@
-group: travis_latest
-dist: xenial  # Travis CI's default distro
-language: python
-cache:
-  directories:
-    - $HOME/.cache/pip
-matrix:
-    include:
-        - python: 3.6
-          env: TOX_ENV=py36
-        - python: 3.7
-          env: TOX_ENV=py37
+language: ruby
+rvm:
+- 2.6.3
 install:
-    - pip install -r test_requirements.txt
-before_script:
-    # run black to check if some files would need reformatting
-    - black --check . || true
-    # stop the build if there are Python syntax errors or undefined names
-    - flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-    # exit-zero treats all errors as warnings.  The GitHub editor is 127 chars wide
-    - flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-script:
-    # Check python install package
-    - pip install -e .
-    - tox -e $TOX_ENV
-    # Check python uninstall package
-    - pip uninstall -y algorithms
-notifications:
-    on_success: change
-    on_failure: change  # `always` will be the setting once code changes slow down
+- bundle install
+script: bundle exec rake site:deploy --quiet
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: EnLh3Uw6/5vHeEZHSsMT6p5HKGrsvZS42iJ8QEF2iwlOi+yE1zAJJ3ajBm6DnJivHkx/ejGFNyKuchzFImmaCW/VFN8HtjVpAKYohJ24L1MqePJebak5PZBmnW5yyQDhoHxOUs+PK65EX4D7RQ+6zYVfqcdITPDifxPPrsMwwC1yrfGB1cLSKfNOkU61rPix0fjXzK2Kh9cagIbb4NqUSJvvvuH3ZGuKK0/cK0pKoxVWGdglDPjnqz3mWtDg/OZWccREWVHsvPHwJNtE+23e6FLJLsjcQmC88LKzr3AdMVRe8iJOCR3hVJENvTvbS0kIf7Kj061fURh0pqpDGFM2Cg2a1dOra23US0aGM1FfhasmWJ2VuWUGB60LRUys1b895tkom8kx3l7TTu4XdIfIfwaqomdUzDIhDJQeep7mAYShIgJyFVWZ8mkdKmrXUxHS0KeYsl7bUBf7lhesHxcVgtMdXWBEkHrJzhueS+Avp4ePAcz+G4qqhSpdyhIChpW2C09Pt1lF8jMtajig8sOBIY4FElnVMjJC7GaCWEPiLsKSpjT4xFQ0fw06+CC83mTKpwFykARKvRSzBPZrSNNNm+Rxfa3g/Pusiw+SebDHj0c67ilRBcuuHa6ORPG35KkFaXYQjihnWHJyI+KVqwmRn1J1m+q0F12do5nx6Suhb1k=
+sudo: false
+exclude:
+- vendor
+branches:
+  only:
+  - master
