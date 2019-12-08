@@ -52,6 +52,23 @@ The number of two is a natural number greater than or equal to two and less than
 
 The number of blanks is three or more.
 
+ex 1)
+
+input:
+
+7 7
+2 0 0 0 1 1 0
+0 0 1 0 1 2 0
+0 1 1 0 1 0 0
+0 1 0 0 0 0 0
+0 0 0 0 0 1 1
+0 1 0 0 0 0 0
+0 1 0 0 0 0 0
+
+output:
+
+27
+
 '''
 
 n, m = map(int, input().split())
