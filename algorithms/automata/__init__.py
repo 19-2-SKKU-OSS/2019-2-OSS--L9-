@@ -1,1 +1,1 @@
-from DFA import *
+from .DFA import *
