@@ -105,6 +105,28 @@ class TestMaximum_Flow_Dfs(unittest.TestCase):
         maximum_flow = maximum_flow_dfs(graph)
 
         self.assertEqual(maximum_flow, 23)
+        
+class TestBellmanFord(unittest.TestCase):
+    def test_bellman_ford(self):
+        graph1 = {
+            'a': {'b': 6, 'e': 7},
+            'b': {'c': 5, 'd': -4, 'e': 8},
+            'c': {'b': -2},
+            'd': {'a': 2, 'c': 7},
+            'e': {'b': -3}
+        }
+    
+        self.assertEqual(True, bellman_ford(graph1, 'a'))
+    
+        graph2 = {
+            'a': {'d': 3, 'e': 4},
+            'b': {'a': 7, 'e':2},
+            'c': {'a': 12, 'd':9, 'e':11},
+            'd': {'c': 5, 'e': 11},
+            'e': {'a': 7, 'b': 5, 'd': 1}
+        } 
+    
+        self.assertEqual(True, bellman_ford(graph2, 'a'))        
 
 if __name__ == '__main__':
     unittest.main()
