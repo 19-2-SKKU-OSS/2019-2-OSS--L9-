@@ -55,7 +55,6 @@ The number of blanks is three or more.
 ex 1)
 
 input:
-
 7 7
 2 0 0 0 1 1 0
 0 0 1 0 1 2 0
@@ -66,8 +65,19 @@ input:
 0 1 0 0 0 0 0
 
 output:
-
 27
+
+ex 2)
+
+input:
+4 6
+0 0 0 0 0 0
+1 0 0 0 0 2
+1 1 1 0 0 2
+0 0 0 0 0 2
+
+output:
+9
 
 '''
 
