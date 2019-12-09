@@ -1,5 +1,5 @@
 ---
-title: 'Project Overview'
+title: '프로젝트 개요'
 
 layout: nil
 ---
@@ -33,7 +33,7 @@ If you want to use the API algorithms in your code, it is as simple as:
 
     $ pip3 install algorithms
 
-You can test by creating a python file: (Ex: use `merge_sort` in `sort`)
+You can test by creating a python file: (Ex: use 'merge_sort' in 'sort')
 
 ```python3
 from algorithms.sort import merge_sort
@@ -48,3 +48,6 @@ if __name__ == "__main__":
 If you want to uninstall algorithms, it is as simple as:
 
     $ pip3 uninstall -y algorithms
+
+## Contribute
+If you want to contribute this project, click <a href="https://github.com/keon/algorithms/blob/master/CONTRIBUTING.md">this</a>
