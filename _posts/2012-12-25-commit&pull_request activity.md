@@ -11,17 +11,30 @@ layout: nil
     - 11월 27일 Path_from_unweighted_graph.py 추가
 - all pairs shortest path(lcw921)
     - 12월 1일 all_pairs_shortest_path.py 추가
+    <br>all_pairs_shortest_path의 구현은 floyd-warshall algorithm을 사용하였다. 
+    <br>시간 복잡도는 O(E^3)이며, 기존에 자주 사용하던 알고리즘이기 때문에, 큰 어려움을 겪지 않고 빠르게 개발에 착수, 완료할 수 있었다.
     - 12월 6일 unittest 추가 요청
     - 12월 7일 unittest 추가 완료
+    <br>단위테스트를 추가해달라는 요청을 받았다. 단위테스트에 대한 자료를 찾아보며, 단위테스트의 중요성을 알게 되었고, 파이썬에서는 단위테스트를 간편하게 수행할 수 있다는 것을 알게되어 이를 추가하였다.
     - 12월 9일 새로운 conflict 해결 요청
     - 12월 9일 conflict 해결 완료
+    <br>master 브랜치에 다른 풀 리퀘스트가 추가됨에 따라, 기존의 코드로 작성하였던, 내 코드가 충돌이 발생하였고, 이를 해결해달라는 요청을 받았다.
+    <br>수정해야할 부분을 깃허브를 통해 빠른 시간내에 수정할 수 있었다.
 - maximum flow(lcw921)
     - 12월 3일 maximum_flow_bfs.py 추가
     - 12월 4일 maximum_flow_dfs.py 추가
+    <br>maximum flow를 Ford Fulkerson 알고리즘을 통해 구하는 모듈을 작성해달라는 issue를 확인하여, 이를 구현하려 시도하였다.
+    <br>bfs와 dfs를 사용한 모든 방법을 추가해달라고 요구하였기 때문에, 두 방법 모두 추가하였다.
+    <br>두 방법은 큰 차이 없이, 자료구조를 queue를 사용하느냐, stack을 사용하느냐의 차이만을 통해 구현하였기 때문에, 큰 어려움을 겪지 않았다.
     - 12월 6일 unittest 추가 요청
     - 12월 7일 unittest 추가 완료
+    <br>마찬가지로 단위테스트를 추가해달라는 요청을 받았다. 
+    <br>파이썬에서는 단위테스트를 간편하게 수행할 수 있었기 때문에 이를 간편히 추가하였다.
     - 12월 9일 새로운 conflict 해결 요청
     - 12월 9일 conflict 해결
+    <br>마찬가지로 master 브랜치에 다른 풀 리퀘스트가 추가됨에 따라, 기존의 코드로 작성하였던, 내 코드가 충돌이 발생하였고, 이를 해결해달라는 요청을 받았다.
+    <br>수정해야할 부분을 깃허브를 통해 빠른 시간내에 수정할 수 있었다.
+    <br>코드의 가독성을 위해 example로 되어있는 배열등을 좀 더 가독성이 나은 방식으로 수정해주기를 요청받았기에 이를 수정하였다.
 - blocking_virus(skkuYJ)
     - 12월 3일 blocking_viurs.py 추가
     - 12월 9일 blocking_virus.py 테스트케이스 추가
