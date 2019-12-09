@@ -1,6 +1,6 @@
 ---
 category: 팀 활동
-path: '/stuff/:id'
+path: '/stuff/'
 title: '팀 일정'
 
 layout: nil
