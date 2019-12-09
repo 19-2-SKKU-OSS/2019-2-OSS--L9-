@@ -30,7 +30,8 @@ layout: nil
 
 ## 기여할 오픈소스를 정한 뒤, 진행 사항이나 문제점 등을 공유하기 위해 생성하였던 issue에 대해 서술함.
 
-* Readme.md 수정 필요합니다. #1
+* Readme.md 수정 필요합니다. 
+[#1](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/issues/1)
   * 11/20 opened by r0ya1je11y(강민우)
   * read.me의 수정을 위해 이후의 방향성에 대해 토의하기 위해 생성한 issue.
 
@@ -55,5 +56,4 @@ layout: nil
   * 이후 프로젝트 정리를 위해 들어가야할 내용을 정함.
   * 개인별 기여내용을 우선적으로 입력. 이외의 내용은 미팅에서 정함.
 
-[신경덕](https://github.com/sinkyoungdeok)
   
