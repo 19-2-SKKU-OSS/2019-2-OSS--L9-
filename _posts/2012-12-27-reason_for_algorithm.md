@@ -1,5 +1,5 @@
 ---
-category: Stuff
+category: 
 path: '/stuff'
 title: '프로젝트 선정 이유 및 과정 '
 
