@@ -1,7 +1,7 @@
 ---
 category: Team Schedule
 path: '/team_schedule'
-title: 'Post a thing'
+title: 'Team Schedule'
 type: 'POST'
 
 layout: nil
