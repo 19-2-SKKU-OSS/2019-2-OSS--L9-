@@ -35,11 +35,7 @@ layout: nil
   * 각각 마음에 드는 프로젝트를 익명으로 2개씩 투표<br>
   * 투표 결과 'Algorithm' 프로젝트 선정
   
-<img alt="투표 결과 스크린샷" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%984.jpg?raw=true"> <br>
-
-
-
-
+<img alt="투표 결과 스크린샷" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%984.jpg?raw=true"> <br><br>
 
 
 ### Reference
