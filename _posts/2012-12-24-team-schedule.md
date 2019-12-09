@@ -1,8 +1,7 @@
 ---
-category: Stuff
+category: 팀 활동
 path: '/stuff/:id'
 title: '팀 일정'
-type: 'DELETE'
 
 layout: nil
 ---
