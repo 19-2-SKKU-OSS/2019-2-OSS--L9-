@@ -9,8 +9,8 @@ This method allows users to retrieve stuff.
 
 ### Response
 
--10월 29일
-  -L9 팀 결성
+*10월 29일
+  *L9 팀 결성
 *11월 15일
   *사용가능 언어 공유
   *프로젝트 탐색 시작
