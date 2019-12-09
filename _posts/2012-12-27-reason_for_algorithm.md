@@ -42,8 +42,5 @@ layout: nil
 
 
 
-### Response
-
-Sends back a collection of things.
-
-For errors responses, see the [response status codes documentation](#response-status-codes).
+### Reference
+[팀 디스커션 페이지](https://github.com/orgs/19-2-SKKU-OSS/teams/2019-2-oss-l9).
