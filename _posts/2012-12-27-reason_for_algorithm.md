@@ -7,9 +7,9 @@ title: '프로젝트 선정 과정 '
 layout: nil
 ---
 
-This method allows users to retrieve stuff.
+### 팀 주제 의견 수합
 
-### Request
+<img width="814" alt="주제 선별 스크린샷" src=".png"> <br>
 
 * The headers must include a **valid authentication token**.
 
