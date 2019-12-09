@@ -1,6 +1,10 @@
 ---
-layout: post
-title: 팀 일정
+category: Team Schedule
+path: '/team_schedule'
+title: 'Post a thing'
+type: 'POST'
+
+layout: nil
 ---
 
 -10월 29일
