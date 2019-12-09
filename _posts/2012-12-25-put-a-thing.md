@@ -1,13 +1,13 @@
 ---
 category: Stuff
 path: '/stuff/:id'
-title: '커밋 및 풀리퀘스트 활동'
+title: '주요 커밋 및 풀리퀘스트 활동'
 type: 'PUT'
 
 layout: nil
 ---
 
-## 주요 커밋 활동
+### 주요 커밋 활동
 - all pairs shortest path(lcw921)
     - 12월 1일 all_pairs_shortest_path.py 추가
     - 12월 6일 unittest 추가 요청
