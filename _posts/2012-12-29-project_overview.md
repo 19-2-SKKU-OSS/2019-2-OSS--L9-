@@ -8,32 +8,32 @@ Fork한 Repository 주소: https://github.com/keon/algorithms
 <br>
 <p align="center"><img src="https://raw.githubusercontent.com/keon/algorithms/master/docs/source/_static/logo/logotype1blue.png"></p>
 
-# Pythonic Data Structures and Algorithms
+# 파이썬으로 자료구조 및 알고리즘 구현
 
-Minimal and clean example implementations of data structures and algorithms in Python 3.
+Python3에서 자료구조와 알고리즘의 최소한의 깔끔한 구현을 목표로 하는 프로젝트.
 
-## Tests
+## 테스트
 
-### Use unittest
-For running all tests write down:
+### unittest 이용
+작성된 모든 테스트를 수행하기 위해서:
 
     $ python3 -m unittest discover tests
 
-For running some specific tests you can do this as following (Ex: sort):
+몇 가지 특정 테스트를 실행하기 위해서는 다음과 같이 수행해야 한다. (예: sort):
 
     $ python3 -m unittest tests.test_sort
 
-### Use pytest
-For running all tests write down:
+### pytest 이용
+작성된 모든 테스트를 수행하기 위해서:
 
     $ python3 -m pytest tests
 
-## Install
-If you want to use the API algorithms in your code, it is as simple as:
+## 설치
+만약 여러분의 코드에 이 프로젝트에서의 알고리즘 API를 적용하고 :
 
     $ pip3 install algorithms
 
-You can test by creating a python file: (Ex: use 'merge_sort' in 'sort')
+파이썬 파일을 만들어서 검사할 수 있습니다: (예: use 'merge_sort' in 'sort')
 
 ```python3
 from algorithms.sort import merge_sort
@@ -44,13 +44,13 @@ if __name__ == "__main__":
     print(my_list)
 ```
 
-## Uninstall
-If you want to uninstall algorithms, it is as simple as:
+## 제거
+만약 알고리즘 모듈을 제거하고 싶다면:
 
     $ pip3 uninstall -y algorithms
 
-## Contribute
-If you want to contribute this project, click <a href="https://github.com/keon/algorithms/blob/master/CONTRIBUTING.md">this</a>
+## 프로젝트 기여
+만약 여러분이 이 프로젝트에 기여하고 싶으시다면, 다음 <a href="https://github.com/keon/algorithms/blob/master/CONTRIBUTING.md">링크</a>를 클릭해주세요.
 
 <hr>
 # 프로젝트 활동 내용 요약
