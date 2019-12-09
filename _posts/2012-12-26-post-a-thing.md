@@ -1,7 +1,7 @@
 ---
 category: Stuff
 path: '/stuff'
-title: 'Issue & Discussion '
+title: 'Issue & Discussion 활동'
 type: 'POST'
 
 layout: nil
