@@ -48,7 +48,8 @@ layout: nil
 - blocking_virus(skkuYJ)
     - 12월 3일 blocking_viurs.py 추가
     <br>
-    - 12월 9일 blocking_virus.py 테스트케이스 추가
+    - 12월 8일 blocking_virus.py 테스트케이스 추가
+    - 12월 9일 blocking_virus.py 테스트케이츠 추가
 - bellman_ford(NthreeAhn)
     - 12월 3일 bellman_ford.py 알고리즘 추가:
     <br> Bellman-Ford 알고리즘을 이용해 Shortest Path 문제 해결 가능 여부 판단 
@@ -77,7 +78,16 @@ layout: nil
     <br> 0과 1로 이루어진 문자열 중 001을 포함하지 않는 경우 DFA 케이스 추가
     <br> a와 b로 이루어진 문자열 중 bba를 포함하는 경우 DFA 케이스 추가
 - Sort Description(skkuYJ)
-    - 12월 9일 counting_sort.md 등 다양한 Sort 설명 파일 추가 (정의, 예시 사진, 복잡도, 참고 링크)
+    - 12월 9일 counting_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 9일 merge_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 9일 bubble_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 9일 heap_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 9일 insertion_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 9일 quick_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 9일 radix_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 9일 selection_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 9일 radix_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    - 12월 10일 bitonic_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
 
 ### 풀리퀘스트 활동
 
