@@ -10,23 +10,9 @@ Fork한 Repository 주소: https://github.com/keon/algorithms
 
 # 파이썬으로 자료구조 및 알고리즘 구현
 
-Python3에서 자료구조와 알고리즘의 최소한의 깔끔한 구현을 목표로 하는 프로젝트.
-
-## 테스트
-
-### unittest 이용
-작성된 모든 테스트를 수행하기 위해서 다음과 같이 작성하세요:
-
-    $ python3 -m unittest discover tests
-
-몇 가지 특정 테스트를 실행하기 위해서는 다음과 같이 수행해야 . (예: sort):
-
-    $ python3 -m unittest tests.test_sort
-
-### pytest 이용
-작성된 모든 테스트를 수행하기 위해서 다음과 같이 작성하세요:
-
-    $ python3 -m pytest tests
+<p>이 프로젝트는 Python3 언어에서 자료구조와 알고리즘의 직접적인 구현과 모듈화를 주 목표로 하고 있습니다. 또한, 자료구조와 알고리즘의 이해를 돕는 테스트 예제도 포함하고 있습니다.</p>
+<p>Python3 코드 안에서 이 알고리즘 모듈을 불러오게 하여, 사용자로 하여금 자신의 프로그램에서 간단하게 자료구조 및 알고리즘을 사용할 수 있도록 하고 있습니다.
+    이 프로젝트에서 구현한 모듈의 설치 방법에는 아래에 더욱 자세하게 설명을 해 놓았습니다.</p>
 
 ## 설치
 만약 여러분의 코드에 이 프로젝트에서의 알고리즘 API를 적용하고 싶다면, 다음과 같이 작성하세요:
@@ -44,15 +30,9 @@ if __name__ == "__main__":
     print(my_list)
 ```
 
-## 제거
-만약 알고리즘 모듈을 제거하고 싶다면:
-
-    $ pip3 uninstall -y algorithms
-
 ## 프로젝트 기여
 만약 여러분이 이 프로젝트에 기여하고 싶으시다면, 다음 <a href="https://github.com/keon/algorithms/blob/master/CONTRIBUTING.md">링크</a>를 클릭해주세요.
 
-<hr>
 # 프로젝트 활동 내용 요약
 1. 프로젝트의 오타 수정
 2. 원 repository의 issue를 받아서 코드 추가 및 수정
