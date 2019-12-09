@@ -35,23 +35,28 @@ layout: nil
   * 11/20 opened by r0ya1je11y(강민우)
   * read.me의 수정을 위해 이후의 방향성에 대해 토의하기 위해 생성한 issue.
 
-* 수정할 부분 탐색 #2
+* 수정할 부분 탐색 
+[#2](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/issues/2)
   * 11/29 opened by r0ya1je11y(강민우)
   * 각자 프로젝트에 기여할 수 있는 부분을 확인하고, 앞으로 기여 방향을 정하기 위해 issue를 생성.
 
-* Contact maintenance. #4
+* Contact maintenance. 
+[#4](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/issues/4)
   * 11/26 by opened by lcw921(이창원)
   * 선정한 오픈소스의 maintenance와 연락하여, 프로젝트의 활동가능 여부, 및 팀원들의 궁금증을 전달하고 이에 대한 답변을 공유하기 위해 issue를 생성함.
 
-* 진행사항 #5
+* 진행사항 
+[#5](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/issues/5)
   * 11/26 by opened by lcw921(이창원)
   * 각자 맡아서 하는 부분을 사전에 공유함으로써, 곂치는 부분을 진행하지 않기 위해 issue를 생성함.
 
-* Branch 생성시 문제발생 #12
+* Branch 생성시 문제발생 
+[#12](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/issues/12)
   * 12/3 by opened by lcw921(이창원)
   * 브랜치 생성시 현재 기준으로 브랜치가 생성되므로 주의하지 않으면, pull request을 보낼 경우 문제가 될 수 있다고 생각하여,  정보 공유를 위해 issue를 생성함.
   
-* Project Wiki 생성 관련 #18
+* Project Wiki 생성 관련 
+[#18](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/issues/18)
   * 12/8 opened by r0ya1je11y(강민우)
   * 이후 프로젝트 정리를 위해 들어가야할 내용을 정함.
   * 개인별 기여내용을 우선적으로 입력. 이외의 내용은 미팅에서 정함.
