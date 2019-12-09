@@ -1,8 +1,8 @@
 ---
-category: Team Schedule
-path: '/team_schedule'
-title: 'Team Schedule'
-type: 'POST'
+category: Stuff
+path: '/stuff/:id'
+title: 'Delete a thing'
+type: 'DELETE'
 
 layout: nil
 ---
