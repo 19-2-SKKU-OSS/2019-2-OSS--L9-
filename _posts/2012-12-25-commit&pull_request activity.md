@@ -51,31 +51,31 @@ layout: nil
     - 12월 9일 blocking_virus.py 테스트케이스 추가
 - bellman_ford(NthreeAhn)
     - 12월 3일 bellman_ford.py 알고리즘 추가:
-    <br> -Bellman-Ford 알고리즘을 이용해 Shortest Path 문제 해결 가능 여부 판단- 
+    <br> Bellman-Ford 알고리즘을 이용해 Shortest Path 문제 해결 가능 여부 판단 
     <br>
     - 12월 6일 unittest 형태로 테스트케이스 추가 요청
-    <br> -test case 형식을 unittest로 작성할 것을 요청받음-
+    <br> test case 형식을 unittest로 작성할 것을 요청받음
     <br>
     - 12월 8일 unittest 추가 완료
-    <br> -음수 값을 가진 path가 있으면서 shortest path가 존재하는 경우-
+    <br> 음수 값을 가진 path가 있으면서 shortest path가 존재하는 경우
     <br>
     - 12월 9일 pull request 승인 완료
 - dfa(NthreeAhn)
     - 12월 5일 dfa.py 및 automata 하위 범주 추가:
-    <br>-새로운 알고리즘 범주 추가 & DFA acceptance 여부 판단 알고리즘 작성-
+    <br>새로운 알고리즘 범주 추가 & DFA acceptance 여부 판단 알고리즘 작성
     <br>
     - 12월 6일 unittest 추가 요청:
-    <br> -test case 형식을 unittest로 작성해 줄 것을 요청받음-
+    <br> test case 형식을 unittest로 작성해 줄 것을 요청받음
     <br>
     - 12월 8일 unittest 추가 완료:
-    <br> -0과 1로 이루어진 문자열 중 0의 개수가 짝수개인 DFA 승인 케이스-
+    <br> 0과 1로 이루어진 문자열 중 0의 개수가 짝수개인 DFA 승인 케이스
     <br>
     - 12월 9일 테스트케이스 추가 요청:
-    <br> -추가적인 테스트케이스 요청받음-
+    <br> 추가적인 테스트케이스 요청받음
     <br>
     - 12월 9일 테스트케이스 추가 완료:
-    <br> -0과 1로 이루어진 문자열 중 001을 포함하지 않는 경우 DFA 케이스 추가-
-    <br> -a와 b로 이루어진 문자열 중 bba를 포함하는 경우 DFA 케이스 추가-
+    <br> 0과 1로 이루어진 문자열 중 001을 포함하지 않는 경우 DFA 케이스 추가
+    <br> a와 b로 이루어진 문자열 중 bba를 포함하는 경우 DFA 케이스 추가
 - Sort Description(skkuYJ)
     - 12월 9일 counting_sort.md 등 다양한 Sort 설명 파일 추가 (정의, 예시 사진, 복잡도, 참고 링크)
 
