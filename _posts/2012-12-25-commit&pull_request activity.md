@@ -42,6 +42,8 @@ layout: nil
     - 12월 9일 테스트케이스 추가 완료:
     <br> 0과 1로 이루어진 문자열 중 001을 포함하지 않는 경우 DFA 케이스 추가
     <br> a와 b로 이루어진 문자열 중 bba를 포함하는 경우 DFA 케이스 추가
+- Sort Description(skkuYJ)
+    - 12월 9일 counting_sort.md 등 다양한 Sort 설명 파일 추가 (정의, 예시 사진, 복잡도, 참고 링크)
 
 ### 풀리퀘스트 활동
 
