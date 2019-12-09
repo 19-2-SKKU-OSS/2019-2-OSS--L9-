@@ -1,7 +1,7 @@
 ---
 category: Stuff
 path: '/stuff/:id'
-title: 'Delete a thing'
+title: 'Team Schedule'
 type: 'DELETE'
 
 layout: nil
