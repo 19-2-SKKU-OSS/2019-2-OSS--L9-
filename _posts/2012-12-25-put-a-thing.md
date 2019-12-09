@@ -1,7 +1,7 @@
 ---
 category: Stuff
 path: '/stuff/:id'
-title: 'Update a thing'
+title: '커밋 및 풀리퀘스트 활동'
 type: 'PUT'
 
 layout: nil
