@@ -1,6 +1,6 @@
 ---
 category: Stuff
-path: '/stuff/:id'
+path: '/login'
 title: 'Team schedule'
 type: 'DELETE'
 
