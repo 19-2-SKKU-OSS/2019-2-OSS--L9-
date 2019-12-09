@@ -51,3 +51,9 @@ If you want to uninstall algorithms, it is as simple as:
 
 ## Contribute
 If you want to contribute this project, click <a href="https://github.com/keon/algorithms/blob/master/CONTRIBUTING.md">this</a>
+
+<hr>
+# 프로젝트 활동 내용 요약
+1. 프로젝트의 오타 수정
+2. 원 repository의 issue를 받아서 코드 추가 및 수정
+3. 프로젝트 모듈에 더욱 추가하고 싶은 알고리즘 코드 추가
