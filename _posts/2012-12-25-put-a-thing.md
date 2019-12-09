@@ -38,12 +38,12 @@ layout: nil
 ### 풀리퀘스트 활동
 
 - 풀리퀘스트 시도 중
-    - all_pairs_shortest_path
+    - all_pairs_shortest_path<br>
     <img width="300" alt="all_pairs_shortest_path" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/allpairs.PNG?raw=true"> <br>
-    - maximum_flows_bfs & maximum_flows_dfs
+    - maximum_flows_bfs & maximum_flows_dfs<br>
     <img width="300" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flow.PNG?raw=true"> <br>
-    - dfa
+    - dfa<br>
     <img width="300" alt="dfa" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/dfa.PNG?raw=true"> <br>
 - 풀리퀘스트 승인 완료
-    - bellman_ford
+    - bellman_ford<br>
     <img width="300" alt="주제 선별 스크린샷3" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/bellman.PNG?raw=true"> <br>
