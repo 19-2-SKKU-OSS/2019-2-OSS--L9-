@@ -10,13 +10,9 @@ A bitonic sequence is a sequence with x0 for some k, 0<=k<n, or a circular shift
 
 ## Sorting bitonic sequences
 
-Implemented in bitonic.cpp.
-
 ![alt text](https://raw.githubusercontent.com/AntoinePassemiers/Bitonic-Sort/master/doc/imgs/bitonic.png)
 
 ## Sorting arbitrary sequences
-
-Implemented in arbitrary.cpp.
 
 ![alt text](https://raw.githubusercontent.com/AntoinePassemiers/Bitonic-Sort/master/doc/imgs/arbitrary.png)
 
@@ -24,7 +20,7 @@ Implemented in arbitrary.cpp.
 
 | Name                  | Best            | Average             | Worst               | Memory    | Stable    | Comments  |
 | --------------------- | :-------------: | :-----------------: | :-----------------: | :-------: | :-------: | :-------- |
-| **Bitonic sort**       | n               | n<sup>2</sup>       | n<sup>2</sup>       | 1         | No       |           |
+| **Bitonic sort**       | log²n               | logn<sup>2</sup>       | logn<sup>2</sup>       | 1         | No       |           |
 
 ## References
  - [Wikipedia](https://en.wikipedia.org/wiki/Bitonic_sorter)
