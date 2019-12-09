@@ -51,7 +51,6 @@ username: lcw921 #github username
 repo: 19-2-SKKU-OSS/2019-2-OSS-L9 #github repository
 branch: master #branch
 relative_source: ../2019-2-OSS-L9/ #source directory
-destination: ../2019-2-OSS-L9/ #destination directory
 production_url:  https://19-2-skku-oss.github.io/2019-2-OSS-L9/
 source_url:  https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9 #source repository url
 
