@@ -8,7 +8,7 @@ and if it were not, one would throw the deck into the air, pick the cards up at 
 and repeat the process until the deck is sorted.
 
 ![Algorithm Visualization](https://idea-instructions.com/bogo-sort.png)
-![Time complexity by n times)(https://raw.githubusercontent.com/joscha0/ExoticAlgorithms/master/img/bogoSort.png)
+![Time complexity by n times](https://raw.githubusercontent.com/joscha0/ExoticAlgorithms/master/img/bogoSort.png)
 
 ## Complexity
 
