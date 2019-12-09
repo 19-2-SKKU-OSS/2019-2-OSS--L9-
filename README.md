@@ -72,3 +72,10 @@ If you want to uninstall algorithms, it is as simple as:
 - Student ID : 2018311642
 - E-mail : sangingeum@gmail.com
 - Static Page : https://sangingeum.github.io/static_page/FirstPost/
+
+## Contribution
+
+1. 프로젝트의 오타 수정
+2. 원 repository의 issue를 받아서 코드 추가 및 수정
+3. 프로젝트 모듈에 더욱 추가하고 싶은 알고리즘 코드 추가
+> 프로젝트에 관해 자세한 내용은 Team GitHub Page에서 확인하실 수 있습니다.
