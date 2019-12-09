@@ -1,8 +1,8 @@
 ---
-category: Stuff
+category: 팀 활동
 path: '/stuff'
 title: 'Issue & Discussion 활동'
-type: 'POST'
+
 
 layout: nil
 ---
