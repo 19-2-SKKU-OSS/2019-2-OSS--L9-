@@ -1,6 +1,6 @@
 ---
 path: '/login'
-title: '팀원 '
+title: '팀원 소개'
 
 layout: nil
 ---
