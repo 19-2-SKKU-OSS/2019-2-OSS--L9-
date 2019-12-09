@@ -55,5 +55,5 @@ layout: nil
   * 이후 프로젝트 정리를 위해 들어가야할 내용을 정함.
   * 개인별 기여내용을 우선적으로 입력. 이외의 내용은 미팅에서 정함.
 
-
+[신경덕](https://github.com/sinkyoungdeok)
   
