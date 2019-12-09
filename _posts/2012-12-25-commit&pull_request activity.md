@@ -100,7 +100,7 @@ layout: nil
     - dfa<br>
     <img width="300" alt="dfa" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/dfa.PNG?raw=true"> <br>
     - path_from_unweighted_graph<br>
-    <img width="300" alt="path_from_unweighted_graph" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/path_from_unweighted_graph.PNG?raw=true"> <br>
+    <img width="300" alt="path_from_unweighted_graph" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/path_from_unweighted_graph_pull_request.PNG?raw=true"> <br>
 - 풀리퀘스트 승인 완료
     - bellman_ford<br>
     <img width="300" alt="주제 선별 스크린샷3" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/bellman.PNG?raw=true"> <br>
