@@ -9,7 +9,7 @@ layout: nil
 
 ### 팀 주제 의견 수합
 
-<img width="814" alt="주제 선별 스크린샷" src=".png"> <br>
+<img width="814" alt="주제 선별 스크린샷" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%98.PNG?raw=true"> <br>
 
 * The headers must include a **valid authentication token**.
 
