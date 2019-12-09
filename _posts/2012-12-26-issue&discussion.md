@@ -65,12 +65,12 @@ layout: nil
 * Add Maximum Flow Ford Fulkerson Algorithm [#595](https://github.com/keon/algorithms/issues/595)
   * issue로 선정되어 있는 주제들에 대해여 우선적으로 접근.
   * issue를 해결해나가는 과정에서 여러 개발자들에게 호응을 받거나, 의사소통을 함.   
-<img width="814" alt="issue_communication" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/converse.PNG?raw=true"> <br>
+<img width="814" alt="issue_communication" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/converse.png?raw=true"> <br>
 
 # 메인터넌스와의 연락
 * 메일을 통한 접촉
   * 메일을 통해 프로젝트에 참가하기 전, 프로젝트의 참여 가능여부와 참여 방향에 대해 문의함.
   <br>
-  <img width="814" alt="issue_communication" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/mail1.PNG?raw=true"> <br>
-  <img width="814" alt="issue_communication" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/mail2.PNG?raw=true"> <br>
+  <img width="814" alt="issue_communication" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/mail1.png?raw=true"> <br>
+  <img width="814" alt="issue_communication" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/mail2.png?raw=true"> <br>
   
