@@ -5,7 +5,6 @@ title: 'Team Schedule'
 layout: nil
 ---
 
-This method allows users to retrieve stuff.
 
 ### Response
 
