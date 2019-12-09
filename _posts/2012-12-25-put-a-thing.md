@@ -6,7 +6,6 @@ type: 'PUT'
 
 layout: nil
 ---
-
 ### 주요 커밋 활동
 - all pairs shortest path(lcw921)
     - 12월 1일 all_pairs_shortest_path.py 추가
@@ -35,3 +34,13 @@ layout: nil
     - 12월 6일 unittest 형태로 테스트케이스 추가 요청
     - 12월 8일 unittest 추가 완료
     - 12월 9일 pull request 승인 완료
+
+### 풀리퀘스트 활동
+
+- 풀리퀘스트 시도 중
+    - all_pairs_shortest_path
+    - maximum_flows_bfs
+    - maximum_flows_dfs
+    - dfa
+- 풀리퀘스트 승인 완료
+    - bellman_ford
