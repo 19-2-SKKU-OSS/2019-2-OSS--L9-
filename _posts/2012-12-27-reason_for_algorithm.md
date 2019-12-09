@@ -19,7 +19,7 @@ layout: nil
 
 
 * 팀원들의 공정한 투표로 '**Algorithm**' 주제 선정 <br>
-<img width="814" alt="투표 결과 스크린샷" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%984.jpg?raw=true"> <br>
+<img alt="투표 결과 스크린샷" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%984.jpg?raw=true"> <br>
 
 
 
