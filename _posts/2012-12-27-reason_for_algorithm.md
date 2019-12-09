@@ -43,4 +43,4 @@ layout: nil
 
 
 ### Reference
-[팀 디스커션 페이지](https://github.com/orgs/19-2-SKKU-OSS/teams/2019-2-oss-l9).
+[팀 디스커션 페이지](https://github.com/orgs/19-2-SKKU-OSS/teams/2019-2-oss-l9)
