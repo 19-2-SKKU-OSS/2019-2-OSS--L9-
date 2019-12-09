@@ -2,7 +2,7 @@
 category: Stuff
 path: '/stuff/:id'
 title: '주요 커밋 및 풀리퀘스트 활동'
-type: 'PUT'
+
 
 layout: nil
 ---
