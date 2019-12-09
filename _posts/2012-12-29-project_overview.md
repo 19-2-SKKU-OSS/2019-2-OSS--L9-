@@ -15,25 +15,25 @@ Python3에서 자료구조와 알고리즘의 최소한의 깔끔한 구현을 �
 ## 테스트
 
 ### unittest 이용
-작성된 모든 테스트를 수행하기 위해서:
+작성된 모든 테스트를 수행하기 위해서 다음과 같이 작성하세요:
 
     $ python3 -m unittest discover tests
 
-몇 가지 특정 테스트를 실행하기 위해서는 다음과 같이 수행해야 한다. (예: sort):
+몇 가지 특정 테스트를 실행하기 위해서는 다음과 같이 수행해야 . (예: sort):
 
     $ python3 -m unittest tests.test_sort
 
 ### pytest 이용
-작성된 모든 테스트를 수행하기 위해서:
+작성된 모든 테스트를 수행하기 위해서 다음과 같이 작성하세요:
 
     $ python3 -m pytest tests
 
 ## 설치
-만약 여러분의 코드에 이 프로젝트에서의 알고리즘 API를 적용하고 :
+만약 여러분의 코드에 이 프로젝트에서의 알고리즘 API를 적용하고 싶다면, 다음과 같이 작성하세요:
 
     $ pip3 install algorithms
 
-파이썬 파일을 만들어서 검사할 수 있습니다: (예: use 'merge_sort' in 'sort')
+정상적으로 설치되었는지는 파이썬 파일을 만들어서 검사할 수 있습니다: (예: use 'merge_sort' in 'sort')
 
 ```python3
 from algorithms.sort import merge_sort
