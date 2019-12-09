@@ -7,6 +7,8 @@ type: 'PUT'
 layout: nil
 ---
 ### 주요 커밋 활동
+- Path_from_unweighted_graph(skkuYJ)
+    - 11월 27일 Path_from_unweighted_graph.py 추가
 - all pairs shortest path(lcw921)
     - 12월 1일 all_pairs_shortest_path.py 추가
     - 12월 6일 unittest 추가 요청
