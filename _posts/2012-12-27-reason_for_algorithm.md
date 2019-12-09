@@ -1,7 +1,7 @@
 ---
 category: Stuff
 path: '/stuff'
-title: 'Why this project?'
+title: '프로젝트 선정 '
 
 
 layout: nil
