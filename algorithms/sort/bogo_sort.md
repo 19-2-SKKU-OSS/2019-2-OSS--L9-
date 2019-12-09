@@ -13,7 +13,7 @@ and repeat the process until the deck is sorted.
 
 | Name                  | Best            | Average             | Worst               | Memory    | Stable    | Comments  |
 | --------------------- | :-------------: | :-----------------: | :-----------------: | :-------: | :-------: | :-------- |
-| **Bogo Sort**         | n               | (n+1)!              | ∞                   |  1        | Yes       |           |
+| **Bogo Sort**         | n               | n!                  | ∞                   |  1        | Yes       |           |
 
 ## References
 
