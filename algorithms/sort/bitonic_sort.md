@@ -20,7 +20,7 @@ A bitonic sequence is a sequence with x0 for some k, 0<=k<n, or a circular shift
 
 | Name                  | Best            | Average             | Worst               | Memory    | Stable    | Comments  |
 | --------------------- | :-------------: | :-----------------: | :-----------------: | :-------: | :-------: | :-------- |
-| **Bitonic sort**       | log²n               | log<sup>2</sup>n       | log<sup>2</sup>n      | 1         | No       |           |
+| **Bitonic sort**       | log²n               | log<sup>2</sup>n       | log<sup>2</sup>n      |nlog²n         | No       | parellel time      |
 
 ## References
  - [Wikipedia](https://en.wikipedia.org/wiki/Bitonic_sorter)
