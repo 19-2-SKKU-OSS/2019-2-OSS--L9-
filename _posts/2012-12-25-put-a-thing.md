@@ -39,11 +39,11 @@ layout: nil
 
 - 풀리퀘스트 시도 중
     - all_pairs_shortest_path
-    <img width="814" alt="all_pairs_shortest_path" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/allpairs.PNG"> <br>
+    <img width="500" alt="all_pairs_shortest_path" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/allpairs.PNG?raw=true"> <br>
     - maximum_flows_bfs & maximum_flows_dfs
-    <img width="814" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flow.PNG"> <br>
+    <img width="500" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flow.PNG?raw=true"> <br>
     - dfa
-    <img width="814" alt="dfa" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/dfa.PNG"> <br>
+    <img width="500" alt="dfa" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/dfa.PNG?raw=true"> <br>
 - 풀리퀘스트 승인 완료
     - bellman_ford
-    <img width="814" alt="주제 선별 스크린샷3" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/bellman.PNG?raw=true"> <br>
+    <img width="500" alt="주제 선별 스크린샷3" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/bellman.PNG?raw=true"> <br>
