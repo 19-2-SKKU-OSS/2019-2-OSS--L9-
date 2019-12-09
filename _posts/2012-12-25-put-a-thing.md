@@ -7,33 +7,32 @@ type: 'PUT'
 layout: nil
 ---
 
-This method allows the user to retrieve his stuff.
-
-### Request
-
-* **`:id`** is the id the thing to update.
-* The headers must include a **valid authentication token**.
-* **The body can't be empty** and must include at least the name attribute, a `string` that will be used as the name of the thing.
-
-```Authentication: bearer f862f658-ad89-4fcb-995b-7a4c50554ff6```
-```{
-    name: 'My new thing'
-}```
-
-### Response
-
-Sends back a collection of things.
-
-```Status: 200 OK```
-```{
-    {
-        id: thing_1,
-        name: 'My first thing'
-    },
-    {
-        id: thing_2,
-        name: 'My second thing'
-    }
-}```
-
-For errors responses, see the [response status codes documentation](#response-status-codes).
+## 주요 커밋 활동
+- all pairs shortest path(lcw921)
+    - 12월 1일 all_pairs_shortest_path.py 추가
+    - 12월 6일 unittest 추가 요청
+    - 12월 7일 unittest 추가 완료
+    - 12월 9일 새로운 conflict 해결 요청
+    - 12월 9일 conflict 해결 완료
+- maximum flow(lcw921)
+    - 12월 3일 maximum_flow_bfs.py 추가
+    - 12월 4일 maximum_flow_dfs.py 추가
+    - 12월 6일 unittest 추가 요청
+    - 12월 7일 unittest 추가 완료
+    - 12월 9일 새로운 conflict 해결 요청
+    - 12월 9일 conflict 해결
+- blocking_virus(skkuYJ)
+    - 12월 3일 blocking_viurs.py 추가
+    - 12월 9일 blocking_virus.py 테스트케이스 추가
+- dfa(NthreeAhn)
+    - 12월 5일 dfa.py 및 automata 하위 범주 추가
+    - 12월 6일 unittest 추가 요청
+    - 12월 8일 unittest 추가 완료
+    - 12월 9일 테스트케이스 추가 요청
+    - 12월 9일 테스트케이스 추가 완료
+- bellman_ford(NthreeAhn)
+    - bellman_ford.py 알고리즘 추가
+    - 12월 6일 unittest 형태로 테스트케이스 추가 요청
+    - 12월 8일 unittest 추가 완료
+    - 12월 9일 pull request 승인 완료
+    - 11월 28일 Path_from_unweighted_graph.py 추가
