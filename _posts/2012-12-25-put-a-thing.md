@@ -35,4 +35,3 @@ layout: nil
     - 12월 6일 unittest 형태로 테스트케이스 추가 요청
     - 12월 8일 unittest 추가 완료
     - 12월 9일 pull request 승인 완료
-    - 11월 28일 Path_from_unweighted_graph.py 추가
