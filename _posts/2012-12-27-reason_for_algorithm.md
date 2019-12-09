@@ -13,15 +13,15 @@ layout: nil
 
 <img width="814" alt="주제 선별 스크린샷1" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%98.PNG?raw=true"> <br>
 
-<img width="814" alt="주제 선별 스크린샷1" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%982.PNG?raw=true"> <br>
+<img width="814" alt="주제 선별 스크린샷2" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%982.PNG?raw=true"> <br>
 
-<img width="814" alt="주제 선별 스크린샷1" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%983.PNG?raw=true"> <br>
+<img width="814" alt="주제 선별 스크린샷3" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%983.PNG?raw=true"> <br>
 
 
-* 팀원들의 공정한 투표로 'Algorithm' 주제 선정 <br>
-'''
-* The headers must include a **valid authentication token**.
-'''
+* 팀원들의 공정한 투표로 '**Algorithm**' 주제 선정 <br>
+<img width="814" alt="투표 결과 스크린샷" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%984.jpg?raw=true"> <br>
+
+
 
 ### Response
 
