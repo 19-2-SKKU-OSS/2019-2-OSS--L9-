@@ -19,7 +19,7 @@ layout: nil
 
 ### 1. 팀 주제 의견 수합
 
-* ####  팀 디스커션 페이지를 만들어 하고 싶은 주제를 하나씩 선정하여 글을 올림.
+*  팀 디스커션 페이지를 만들어 하고 싶은 주제를 하나씩 선정하여 글을 올림.
 
 <img width="814" alt="주제 선별 스크린샷1" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/%EC%BA%A1%EC%B2%98.PNG?raw=true"> <br>
 
