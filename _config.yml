@@ -1,6 +1,6 @@
 ---
 exclude: ['README.markdown']
 permalink: ':title'
-pygments: true
+
 safe: false
 title: '2019-2-OSS-L9'
