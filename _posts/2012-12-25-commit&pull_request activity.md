@@ -1,5 +1,5 @@
 ---
-category: 팀 
+category: 팀 활동
 path: '/stuff/'
 title: '주요 커밋 및 풀리퀘스트 활동'
 
