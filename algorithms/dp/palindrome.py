@@ -62,12 +62,8 @@ d=[[0 for i in range(n)] for j in range(n)]
 
 pld=list(map(int,(input().split())))
 for i in range(n) :
-    
-        
-       
         d[i][i]=1
      
-
 for i in range(n-1):
         if (pld[i]==pld[i+1]) :
                 d[i][i+1]=1
@@ -78,8 +74,7 @@ for i in range(1,n-1):
                         d[j][i + j] = 1
 
 m=eval(input())
-while m :
-        
+while m :   
         s,e = map(int, input().split())
         output.append(d[s-1][e-1])
         m-=1
