@@ -8,6 +8,23 @@ along each branch before backtracking.
 
 ![Algorithm Visualization](https://upload.wikimedia.org/wikipedia/commons/7/7f/Depth-First-Search.gif)
 
+## Pseudocode
+
+```text
+DFS(G, u)
+    u.visited = true
+    for each v ∈ G.Adj[u]
+        if v.visited == false
+            DFS(G,v)
+     
+init() {
+    For each u ∈ G
+        u.visited = false
+     For each u ∈ G
+       DFS(G, u)
+}
+```
+
 ## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
