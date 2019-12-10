@@ -13,5 +13,5 @@ def count_set_bits(n):
 n = 41
   
 # Function calling 
-print(count_set_bits(n) 
+print(count_set_bits(n))
 
