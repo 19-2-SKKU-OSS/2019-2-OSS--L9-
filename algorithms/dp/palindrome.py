@@ -56,22 +56,28 @@ output :
 1
 '''
 pld=[]
-d=[]
-d.append([])
+output=[]
 n=eval(input())
+d=[[0 for i in range(n)] for j in range(n)]
+
+pld=list(map(int,(input().split())))
 for i in range(n) :
-        pld.append(input()) 
-        d[i].append(1)
-for i in range(n):
+        d[i][i]=1
+     
+for i in range(n-1):
         if (pld[i]==pld[i+1]) :
-                d.insert(i[i+1],1)
-for i in range(2,n):
-        for j in range(1,n):
+                d[i][i+1]=1
+                
+for i in range(1,n-1):
+        for j in range(n-i):
                    if (pld[j] == pld[i + j] and d[j + 1][i + j - 1]):
                         d[j][i + j] = 1
-m=eval(input())
-while m :
-        m-=1
-        s,e = map(int, input().split())
-        print(d[s][e])
 
+m=eval(input())
+while m :   
+        s,e = map(int, input().split())
+        output.append(d[s-1][e-1])
+        m-=1
+
+for i in output:
+        print(i)
