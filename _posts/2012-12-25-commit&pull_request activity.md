@@ -99,8 +99,8 @@ layout: nil
     <img width="300" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flow.PNG?raw=true"> <br>
     - dfa<br>
     <img width="300" alt="dfa" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/dfa.PNG?raw=true"> <br>
-    - path_from_unweighted_graph<br>
-    <img width="300" alt="path_from_unweighted_graph" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/path_from_unweighted_graph_pull_request.PNG?raw=true"> <br>
+    - path_from_unweighted_graph & blocking_virus.py (bfs) <br>
+    <img width="300" alt="path_from_unweighted_graph&blocking_virus" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/캡처4.PNG?raw=true"> <br>
 - 풀리퀘스트 승인 완료
     - bellman_ford<br>
     <img width="300" alt="주제 선별 스크린샷3" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/bellman.PNG?raw=true"> <br>
