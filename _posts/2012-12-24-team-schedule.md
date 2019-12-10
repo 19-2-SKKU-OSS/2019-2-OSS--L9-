@@ -47,9 +47,14 @@ layout: nil
   * 풀리퀘스트 관련 owner 요청에 대한 unittest 추가(lcw921)
 * 12월 8일
   * 풀리퀘스트 관련 owner 요청에 대한 unittest 추가(lcw921, NthreeAhn)
+  * blocking virus 테스트 케이스 추가(skkuYJ)
   * Wiki 구성 토의 issue 개시 및 틀 제작(rOya1je11y)
   * static page 테마 선정
   * static page 팀 일정 중간 작성(NthreeAhn)
 * 12월 9일
   * 정적 페이지 생성
   * bellman-ford pull request 승인
+  * blocking virus 테스트 케이스 추가
+  * sort description 추가 (skkuYJ)
+* 12월 10일
+  * sort description 추가 (skkuYJ)
