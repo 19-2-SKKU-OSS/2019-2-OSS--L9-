@@ -25,6 +25,7 @@ layout: nil
   * 11/16 by opened by lcw921(이창원)
   * 이후 기여할 오픈소스를 정할 때 문제가 없도록, 사용가능한 언어를 사전에 서로 공유함.
 
+<img width="814" alt="issue" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/issue.png?raw=true"> <br>
 
 # Issue
 
@@ -60,6 +61,8 @@ layout: nil
   * 12/8 opened by r0ya1je11y(강민우)
   * 이후 프로젝트 정리를 위해 들어가야할 내용을 정함.
   * 개인별 기여내용을 우선적으로 입력. 이외의 내용은 미팅에서 정함.
+
+<img width="814" alt="discussion" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/discussion.png?raw=true"> <br>
 
 # 외부 Issue
 * Add Maximum Flow Ford Fulkerson Algorithm [#595](https://github.com/keon/algorithms/issues/595)
