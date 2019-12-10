@@ -5,7 +5,7 @@ Each attempt can be represented by two integers, S and E,
 asking whether the numbers S through E make up the palindrome, 
 and for each question it prints whether the palindrome is or not.
 
-For example, suppose the number listed is 1, 2, 1, 3, 1, 2, 1.\
+For example, suppose the number listed is 1, 2, 1, 3, 1, 2, 1.
 When S = 1 and E = 3, 
   1, 2, 1 is a palindrome.
 When S = 2 and E = 5, 
@@ -14,22 +14,13 @@ When S = 3 and E = 3,
   1 is a palindrome.
 When S = 5 and E = 7, 
   1, 2, 1 is a palindrome.
-  
 
-The first row is given the size of the sequence N (1 ≤ N ≤ 2,000).
-In the second line, N numbers are given in order.
-The third line gives the number of trials M (1 ≤ M ≤ 1,000,000).
-From line 4, M lines are given one S and one E for each line.
+Time complexity is O(n^2)
 
 ex 1)
-input :
-7
-1 2 1 3 1 2 1
-4
-1 3
-2 5
-3 3
-5 7
+
+N1=[1,2,1,3,1,2,1]
+M1=[[1,3],[2,5],[3,3],[5,7]]
 
 output :
 1
@@ -39,14 +30,8 @@ output :
 
 ex 2)
 input :
-9
-1 2 3 1 5 1 3 3 1
-5
-1 3
-2 5
-4 6
-6 9
-3 7
+N2=[1, 2, 3, 1, 5, 1, 3, 3, 1]
+M2=[[1,3],[2,5],[4,6],[6,9],[3,7]]
 
 output :
 0
@@ -55,29 +40,38 @@ output :
 1
 1
 '''
-pld=[]
-output=[]
-n=eval(input())
-d=[[0 for i in range(n)] for j in range(n)]
+N1=[1,2,1,3,1,2,1]
+M1=[[1,3],[2,5],[3,3],[5,7]]
 
-pld=list(map(int,(input().split())))
-for i in range(n) :
-        d[i][i]=1
-     
-for i in range(n-1):
-        if (pld[i]==pld[i+1]) :
-                d[i][i+1]=1
-                
-for i in range(1,n-1):
-        for j in range(n-i):
-                   if (pld[j] == pld[i + j] and d[j + 1][i + j - 1]):
-                        d[j][i + j] = 1
+N2=[1, 2, 3, 1, 5, 1, 3, 3, 1]
+M2=[[1,3],[2,5],[4,6],[6,9],[3,7]]
 
-m=eval(input())
-while m :   
-        s,e = map(int, input().split())
-        output.append(d[s-1][e-1])
-        m-=1
 
-for i in output:
-        print(i)
+def palindrome(list_n,list_m) :
+        n=len(list_n)
+        output=[]
+        d=[[0 for i in range(n)] for j in range(n)]
+        for i in range(n) :
+                d[i][i]=1
+
+        for i in range(n-1):
+                if (list_n[i]==list_n[i+1]) :
+                        d[i][i+1]=1
+
+        for i in range(1,n-1):
+                for j in range(n-i):
+                        if (list_n[j] == list_n[i + j] and d[j + 1][i + j - 1]):
+                                d[j][i + j] = 1
+        m=len(list_m)
+        i=0
+        while i<m :   
+                s,e = map(int, list_m[i])
+                output.append(d[s-1][e-1])
+                i+=1
+
+        for i in output:
+                print(i)
+        print("")
+
+palindrome(N1,M1)
+palindrome(N2,M2)
