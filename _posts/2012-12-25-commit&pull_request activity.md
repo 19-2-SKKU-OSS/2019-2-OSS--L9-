@@ -26,6 +26,8 @@ layout: nil
     - 12월 9일 conflict 해결 완료
     <br>master 브랜치에 다른 풀 리퀘스트가 추가됨에 따라, 기존의 코드로 작성하였던, 내 코드가 충돌이 발생하였고, 이를 해결해달라는 요청을 받았다.
     <br>수정해야할 부분을 깃허브를 통해 빠른 시간내에 수정할 수 있었다.
+    <br>
+    - 12월 11일 풀리퀘스트 승인
 - maximum flow(lcw921)
     - 12월 3일 maximum_flow_bfs.py 추가
     <br>
@@ -46,6 +48,8 @@ layout: nil
     <br>마찬가지로 master 브랜치에 다른 풀 리퀘스트가 추가됨에 따라, 기존의 코드로 작성하였던, 내 코드가 충돌이 발생하였고, 이를 해결해달라는 요청을 받았다.
     <br>수정해야할 부분을 깃허브를 통해 빠른 시간내에 수정할 수 있었다.
     <br>코드의 가독성을 위해 example로 되어있는 배열등을 좀 더 가독성이 나은 방식으로 수정해주기를 요청받았기에 이를 수정하였다.
+    <br>
+    - 12월 11일 풀리퀘스트 승인
 - blocking_virus(skkuYJ)
     - 12월 3일 blocking_viurs.py 추가
     <br>
@@ -96,10 +100,6 @@ layout: nil
 ### 풀리퀘스트 활동
 
 - 풀리퀘스트 시도 중
-    - all_pairs_shortest_path<br>
-    <img width="300" alt="all_pairs_shortest_path" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/allpairs.PNG?raw=true"> <br>
-    - maximum_flows_bfs & maximum_flows_dfs<br>
-    <img width="300" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flow.PNG?raw=true"> <br>
     - path_from_unweighted_graph & blocking_virus.py (bfs) <br>
     <img width="300" alt="path_from_unweighted_graph&blocking_virus" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/캡처4.PNG?raw=true"> <br>
 - 풀리퀘스트 승인 완료
@@ -107,3 +107,7 @@ layout: nil
     <img width="300" alt="주제 선별 스크린샷3" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/bellman.PNG?raw=true"> <br>
     - dfa<br>
     <img width="300" alt="dfa" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/dfa.PNG?raw=true"> <br>
+    - all_pairs_shortest_path<br>
+    <img width="300" alt="all_pairs_shortest_path" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/allpairs.PNG?raw=true"> <br>
+     - maximum_flows_bfs & maximum_flows_dfs<br>
+      <img width="300" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flow.PNG?raw=true"> <br>
