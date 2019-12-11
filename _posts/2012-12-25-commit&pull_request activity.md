@@ -108,8 +108,8 @@ layout: nil
     - dfa<br>
     <img width="300" alt="dfa" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/dfa.PNG?raw=true"> <br>
     - all_pairs_shortest_path<br>
-    <img width="300" alt="all_pairs_shortest_path" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/allpairs.png?raw=true"> <br>
+    <img width="300" alt="all_pairs_shortest_path" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/allpairs.PNG?raw=true"> <br>
     <img width="300" alt="all_pairs_shortest_path" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/allpairsf.png?raw=true"> <br>
      - maximum_flows_bfs & maximum_flows_dfs<br>
-      <img width="300" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flow.png?raw=true"> <br>
+      <img width="300" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flow.PNG?raw=true"> <br>
       <img width="300" alt="maximum_flows" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/maximum_flowf.png?raw=true"> <br>
