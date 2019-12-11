@@ -58,3 +58,5 @@ layout: nil
   * sort description 추가 (skkuYJ)
 * 12월 10일
   * sort description 추가 (skkuYJ)
+* 12월 11일
+  * dfa pull request 승인
