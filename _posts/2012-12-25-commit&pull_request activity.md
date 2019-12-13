@@ -127,7 +127,11 @@ layout: nil
 
 - 풀리퀘스트 시도 중
     - path_from_unweighted_graph & blocking_virus.py (bfs) <br>
-    <img width="300" alt="path_from_unweighted_graph&blocking_virus" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/캡처4.PNG?raw=true"> <br>
+    <img width="300" alt="path_from_unweighted_graph&blocking_virus" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/캡처5.PNG?raw=true"> <br>
+    <img width="300" alt="path_from_unweighted_graph&blocking_virus" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/캡처6.PNG?raw=true"> <br>
+    - blocking_virus.py <br>
+    <img width="300" alt="path_from_unweighted_graph&blocking_virus" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/palindrome1.PNG?raw=true"> <br>
+    <img width="300" alt="path_from_unweighted_graph&blocking_virus" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/palindrome2.PNG?raw=true"> <br>
 - 풀리퀘스트 승인 완료
     - bellman_ford<br>
     <img width="300" alt="주제 선별 스크린샷3" src="https://github.com/19-2-SKKU-OSS/2019-2-OSS-L9/blob/gh-pages/images/bellman.PNG?raw=true"> <br>
