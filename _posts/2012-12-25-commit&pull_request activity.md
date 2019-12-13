@@ -10,6 +10,7 @@ layout: nil
 - Path_from_unweighted_graph(skkuYJ)
     - 11월 27일 Path_from_unweighted_graph.py 추가
     - 11월 27일 Path_from_unweighted_graph.py 테스트케이스 
+    - 12월 9일 Path_from_unweighted_graph.py Pull request 요청
 <br>    
 - all pairs shortest path(lcw921)
     - 12월 1일 all_pairs_shortest_path.py 추가
@@ -55,6 +56,7 @@ layout: nil
     <br>
     - 12월 8일 blocking_virus.py 테스트케이스 추가
     - 12월 9일 blocking_virus.py 테스트케이츠 추가
+    - 12월 9일 blocking_virus.py Pull request 요청
 - bellman_ford(NthreeAhn)
     - 12월 3일 bellman_ford.py 알고리즘 추가:
     <br> Bellman-Ford 알고리즘을 이용해 Shortest Path 문제 해결 가능 여부 판단 
@@ -96,7 +98,31 @@ layout: nil
     - 12월 9일 radix_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
     - 12월 10일 bitonic_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
     - 12월 10일 bogo_sort.md 추가 (정의, 이미지, 복잡도, 참고 링크)
+    
+- bit_length(skkuYJ)
+    - 12월 10일 bit_length.py 알고리즘 추가
 
+- Search Description(skkuYJ)
+    - 12월 10일 bfs.md, dfs.md 추가 
+
+- count_set_bits(skkuYJ)
+    - 12월 10일 count_set_bits.py 알고리즘 추가
+
+- palindrome(skkuYJ)
+    - 12월 10일 palindrome.py 알고리즘 추가
+    - 12월 11일 palindrome.py 알고리즘 수정 및 pull request 요청
+    - 12월 12일 palindrome.py 알고리즘 수정 및 unittest 추가 
+    - 12월 12일 repository owner로부터 4 spaces만 사용해달라는 피드백 받음
+
+- add(skkuYJ)
+    - 12월 12일 add.py 알고리즘 추가
+   
+- perfect_square_number(skkuYJ)  
+    - 12월 12일 perfect_square_number.py 알고리즘 추가
+  
+- left_leaf_nodes(skkuYJ) 
+    - 12월 13일 left_leaf_nodes.py 알고리즘 추가 
+    
 ### 풀리퀘스트 활동
 
 - 풀리퀘스트 시도 중
