@@ -56,7 +56,19 @@ layout: nil
   * bellman-ford pull request 승인
   * blocking virus 테스트 케이스 추가
   * sort description 추가 (skkuYJ)
+  * path_from_unweighted_graph.py, blocking_virus.py Pull request 요청 (skkuYJ)
 * 12월 10일
   * sort description 추가 (skkuYJ)
+  * bfs.md, dfs.md 추가 (skkuYJ)
+  * bit_length.py 추가 (skkuYJ)
+  * count_set_bits.py 알고리즘 추가 (skkuYJ)
+  * palindrome.py 알고리즘 추가 (skkuYJ)
 * 12월 11일
   * dfa pull request 승인
+  * palindrome.py 알고리즘 수정 및 pull request 요청 (skkuYJ)
+* 12월 12일
+  * add.py 알고리즘 추가 (skkuYJ)
+  * perfect_square_number 알고리즘 추가 (skkuYJ)
+  * palindrome.py 알고리즘 수정 (skkuYJ)
+* 12월 13일
+  * left_leaf_nodes.py 알고리즘 추가 (skkuYJ)
